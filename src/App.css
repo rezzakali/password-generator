@@ -1,0 +1,22 @@
+.mainContainer {
+  background-color: azure;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+}
+.contentHeader {
+  width: 40%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-color: darkorange;
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+#copy:hover {
+  cursor: pointer;
+  background-color: aquamarine;
+}
